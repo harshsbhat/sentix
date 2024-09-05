@@ -61,6 +61,10 @@ Sentix is a web-based tool for analyzing the sentiment of blog posts using web s
 
 ## Usage
 
+## Video
+
+https://www.loom.com/share/237cc669abf44d73bc406709fc0bc5fa?sid=5828fe9e-836b-4043-a505-0627b739701f
+
 1. Enter the URL of the blog post you want to analyze.
 2. Choose between "scrape" or "crawl" mode.
 3. Click "Analyze Sentiment."
