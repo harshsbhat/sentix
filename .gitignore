@@ -1,0 +1,17 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+
+.env
+
+# Streamlit cache and files
+.streamlit/
+*.log
+*/cache/
+
+# Virtual environment
+venv/
